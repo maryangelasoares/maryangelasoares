@@ -2,6 +2,8 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas - Desenvolvedora FullStack - Apaixonada por Design Ui/Ux.
 
+Atualmente, estou explorando os intricados desafios da construção de sistemas de software abrangentes, desde o back-end até o front-end. 💻' Como desenvolvedor FullStack, meu objetivo é criar soluções robustas e inovadoras que proporcionem uma experiência excepcional aos usuários. Além disso, sou apaixonada por Design UI/UX, acreditando que a estética e a usabilidade são fundamentais para o sucesso de qualquer aplicação. Constantemente buscando aprender e evoluir, estou imersa no universo da tecnologia, acompanhando as últimas tendências e adotando as melhores práticas de desenvolvimento.
+
 ## . Linguagens e ferramentas
 Essas são umas das principais tecnologias que eu tenho dominio e habilidades.
 
@@ -31,3 +33,5 @@ Essas são umas das principais tecnologias que eu tenho dominio e habilidades.
   <a href="https://www.instagram.com/maryangelasoares/" alt="Instagram" target = "_blank" >
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
+
+Happy coding! 🚀✨
