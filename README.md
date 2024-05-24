@@ -1,8 +1,8 @@
 ## Olá, Sou a Maryângela Soares! 👋'
 
-Estudante de Análise e Desenvolvimento de Sistemas - Desenvolvedora FullStack - Apaixonada por Design Ui/Ux.
+Estudante de Análise e Desenvolvimento de Sistemas - Especializando em  Desenvolvimento FullStack - Apaixonada por Ui Design.
 
-Atualmente, estou explorando os intricados desafios da construção de sistemas de software abrangentes, desde o back-end até o front-end. 💻' Como desenvolvedor FullStack, meu objetivo é criar soluções robustas e inovadoras que proporcionem uma experiência excepcional aos usuários. Além disso, sou apaixonada por Design UI/UX, acreditando que a estética e a usabilidade são fundamentais para o sucesso de qualquer aplicação. Constantemente buscando aprender e evoluir, estou imersa no universo da tecnologia, acompanhando as últimas tendências e adotando as melhores práticas de desenvolvimento.
+💻 | Minha paixão por tecnologia e design se manifesta na combinação de criatividade e lógica, onde encontrei minha verdadeira vocação. Sou apaixonada por UI Design e encantada pelo Back-End, acreditando que a experiência do usuário, estética e usabilidade são fundamentais para o sucesso de qualquer aplicação. Atualmente, dedico-me intensamente aos estudos, aprofundando meu conhecimento e buscando constantemente aprender e evoluir. 
 
 ## . Linguagens e ferramentas
 Essas são umas das principais tecnologias que eu tenho dominio e habilidades.
@@ -16,7 +16,6 @@ Essas são umas das principais tecnologias que eu tenho dominio e habilidades.
   <img align="center" alt="Mary-SQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
   <img align="center" alt="Mary-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" >
   <img align="center" alt="Mary-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" >
-  <img align="center" alt="Mary-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" >
   <img align="center" alt="Mary-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" >        
 
 </div>
